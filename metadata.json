@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Alerta Temprana Académica",
+  "description": "Sistema Inteligente usando Machine Learning para Alerta Temprana del Bajo Rendimiento Académico aplicado a la IEP Peruano Francés de VES",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
